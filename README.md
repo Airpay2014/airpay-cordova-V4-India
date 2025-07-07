@@ -299,7 +299,7 @@ public class MainActivity extends CordovaActivity implements ActionResultListene
    For Username and Password, kindly refer the kit on sanctum portal link -  	
 ```
   maven {
-        url "https://gitlab.com/api/v4/projects/60989340/packages/maven"
+        url "https://gitlab.com/api/v4/projects/69276629/packages/maven"
         credentials(HttpHeaderCredentials) {
             name = ""
             value = ""
